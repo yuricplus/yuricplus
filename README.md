@@ -10,6 +10,8 @@ I like to be challenged;
 
 In my free time i like to play games(⚡), to play music(🎵), to read books(📚) and i love run;
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 <!--
 **yuricplus/yuricplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
