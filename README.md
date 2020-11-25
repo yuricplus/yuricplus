@@ -10,6 +10,8 @@ I like to be challenged;
 
 In my free time i like to play games(⚡), to play music(🎵), to read books(📚) and i love run;
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuricplus&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuricplus&theme=tokyonight)
 
 <!--
